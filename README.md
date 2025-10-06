@@ -1,4 +1,4 @@
-SkillCraft Technology - Data Science Internship: Task 2
+# SkillCraft Technology - Data Science Internship: Task 2
 This repository contains the work for the second task of the SkillCraft Technology Data Science Internship.
 
 📝 Project Description
