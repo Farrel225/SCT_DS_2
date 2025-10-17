@@ -1,11 +1,13 @@
 # SkillCraft Technology - Data Science Internship: Task 2
 This repository contains the work for the second task of the SkillCraft Technology Data Science Internship.
 
-📝 Project Description
+📝 Project Scope
+
 The goal of this task was to perform data preprocessing and exploratory data analysis (EDA) on a passenger dataset. 
 We creating visualizations such as pie chart, a heatmap, and a histogram using Python's matplotlib and seaborn to to understand passenger demographics, attribute correlations, and data distributions.
 
-📊 Visualizations
+📊 Insights
+
 Here are the charts generated from the analysis:
 
 1. Gender Distribution of Passengers
